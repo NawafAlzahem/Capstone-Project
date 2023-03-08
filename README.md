@@ -1,4 +1,5 @@
-# Capstone-Project for the implementation of IoT and Embeded Systems using libelium porducts and it's Waspmote IDE
+# Capstone-Project for the implementation of IoT and Embeded Systems using libelium porducts and it's Waspmote IDE and Android Studio Mobile application development for for the usability of biometrics 
+
 
 Each code is in the respected folder, according to the arduino logic
 Each code snippet works with the respected libelium mote, i.e., 802.15.4 needs waspmote S! zigbee and wi-fi needs the wi-fi mote pro
