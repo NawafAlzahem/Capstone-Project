@@ -22,8 +22,8 @@
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>.  
  * 
  *  Version:           3.0
- *  Design:            David Gascón 
- *  Implementation:    Ahmad Saad Al Kalla
+ *  Design:            Nawaf Alzahem 
+ *  Implementation:    Nawaf Alzahem
  */
 
 #include <WaspSensorCities_PRO.h>
